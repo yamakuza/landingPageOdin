@@ -1,0 +1,64 @@
+body {
+    background-color: #FFFFFF;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', arial;
+}
+
+
+
+.header{
+    padding-left: 80px;
+    padding-right: 80px;
+    background: #1abc9c;
+    color: white;
+
+}
+.img{
+    border: solid;
+    width: 400px;
+    height: 200px;
+    margin-bottom: 20px;
+    background: grey;
+}
+
+
+.firstLine{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+    margin-top: 10px;
+
+}
+
+.ul{
+    list-style-type: none;
+    display: flex;
+    
+}
+
+.ul a {
+    text-decoration: none;
+    display: flex;
+}
+
+.secondLine{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+    justify-content: space-between;
+
+}
+
+.btn{
+    background-color: rgb(8, 28, 46);
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.random{
+    margin-left: 550px;
+}
